@@ -1,0 +1,8 @@
+# .NET build artefacts
+bin/
+obj/
+# IDE settings
+.vscode/
+.idea/
+# user secrets / local overrides
+*.user
